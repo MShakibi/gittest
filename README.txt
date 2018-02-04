@@ -41,4 +41,4 @@ Exercise 1
 * Commit your changes.
 * Use 'git log' to view the history. Compare the output with that from the 'git l' alias you set up above.
 * Use 'git show' with a SHA from the log to view a specific commit. Try out the '--stat' and '--shortstat' options to show.
-Approved.
+
